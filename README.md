@@ -1,8 +1,6 @@
 - Hi, I’m @PythonAtSea
 - I’m interested in Python, Flask, and Pygame
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 PythonAtSea/PythonAtSea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
