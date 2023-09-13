@@ -1,4 +1,4 @@
-![PythonAtSea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonAtSea&show_icons=true&theme=transparent))
+![PythonAtSea's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonAtSea&show_icons=true&theme=transparent)
 - Hi, I’m @PythonAtSea
 - I’m interested in Python, Flask, and Pygame
 
